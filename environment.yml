@@ -1,0 +1,12 @@
+name: extractor
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11.2
+  - pandas=1.5.3
+  - numpy=1.23.5
+  - ascii-art=5.9
+  - tqdm=4.65.0
+  - pip:
+    - rdkit==2022.9.5
