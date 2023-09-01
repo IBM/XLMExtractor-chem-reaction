@@ -34,4 +34,4 @@ These analysis may be performed by adding the arguments on the Analysis.analysis
 ---
 ## Authorship
 
-* Author: **Brenda Ferrari** ([bferrari](https://github.ibm.com/bferrari))
+* Author: **Brenda Ferrari** ([bferrari])
